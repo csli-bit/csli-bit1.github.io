@@ -1,5 +1,4 @@
 ---
-title: Publication List
 permalink: /publication/
 ---
 **Journal Paper**
