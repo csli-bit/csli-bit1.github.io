@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: Publication List
 permalink: /publication/
 ---
