@@ -8,5 +8,3 @@ permalink: /publication/
 
 [2] dafdfdddddd <br>
 [3]dad
-
-[44] dlaldl
