@@ -3,14 +3,7 @@ permalink: /publication/
 ---
 **Journal Paper**
 
-<style type="text/css">
-body {
-mar-left: 0px;
-margin-top: 0px;
-margin-right: 0px;
-margin-bottom: 0px;
-}
-</style>
+
 <link href="style.css" type=text/css rel=stylesheet />
 <script language=JavaScript src="menu.js" type=text/javascript></script>
 <style type="text/css">
@@ -58,4 +51,4 @@ margin-bottom: 0px;
       </tr>
 
 [2] dafdfdddddd <br>
-[3]djkkk
+[3]d
