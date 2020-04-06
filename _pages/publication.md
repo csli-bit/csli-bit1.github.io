@@ -40,7 +40,7 @@ classes: wide
 </li> 
 
 <li>
-<b>[T-C]</b> Junchi Yan, <b>Changsheng Li</b>, Yin Li, Guitao Cao, Adaptive discrete hypergraph matching,  IEEE Transactions on Cybernetics (T-C), 48(2):765-779, 2018. [中科院JCR-1区].<br>
+<b>[T-C]</b> Junchi Yan, <b>Changsheng Li</b>, Yin Li, Guitao Cao, Adaptive discrete hypergraph matching, IEEE Transactions on Cybernetics (T-C), 48(2):765-779, 2018. [中科院JCR-1区].<br>
 </li>
  
  <li>
@@ -81,7 +81,7 @@ classes: wide
  </li>
  
  <li>
- <b>[PR]</b> Xiaobin Zhu, Jing Liu, Jinqiao Wang, <b>Changsheng Li</b>, Hanqing Lu, Sparse representation for robust abnormality detection in crowded scenes, Pattern Recognition 47(5):1791-1799, 2014. [中科院JCR-2区].<br>
+ <b>[PR]</b> Xiaobin Zhu, Jing Liu, Jinqiao Wang, <b>Changsheng Li</b>, Hanqing Lu, Sparse representation for robust abnormality detection in crowded scenes, Pattern Recognition, 47(5):1791-1799, 2014. [中科院JCR-2区].<br>
  </li>
  
  <li>
