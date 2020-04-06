@@ -18,8 +18,8 @@ classes: wide
  9.<b>[T-NNLS] Changsheng Li</b>, Fan Wei, Junchi Yan, Xiaoyu Zhang, Qingshan Liu, Hongyuan Zha, A Self-Paced Regularization Framework for Multilabel Learning, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 29(6):2660-2666, 2018.  [中科院JCR-1区].<br>
  10.<b>[T-NNLS]</b> Chunjie Zhang, Liang Li, <b>Changsheng Li</b>, Qi Tian, Object Categorization Using Class-Specific Representations, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 29(9):4528-4534, 2018. [中科院JCR-1区].<br>
 11.<b>[T-NNLS]</b> Chunjie Zhang, Jian Cheng, <b>Changsheng LI</b>, Qi Tian, Image-Specific Classification With Local and Global Discriminations, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 29(9):4479-4486, 2018.  [中科院JCR-1区].<br>
-  12.<b>[JRD]</b> Jian, Wang, <b>Changsheng Li</b>, Siyao, Han, Soumitra Sarkar, Xin Zhou, Predictive maintenance based on event-log analysis: A case study, IBM Journal of Research and Development, 61(1):121-132, 2017.
-  13<b>[IJCC]</b> Fanjing Meng, Han Wang, Xuejun Zhuo, Jingmin Xu, Lin Yang, <b>Changsheng Li</b>, Metaconf: Learning Based Configuration File Discovery with File MetaData, International Journal of Cloud Computing, 3(3):1-12, 2016.
+  12.<b>[JRD]</b> Jian, Wang, <b>Changsheng Li</b>, Siyao, Han, Soumitra Sarkar, Xin Zhou, Predictive maintenance based on event-log analysis: A case study, IBM Journal of Research and Development, 61(1):121-132, 2017.<br>
+  13<b>[IJCC]</b> Fanjing Meng, Han Wang, Xuejun Zhuo, Jingmin Xu, Lin Yang, <b>Changsheng Li</b>, Metaconf: Learning Based Configuration File Discovery with File MetaData, International Journal of Cloud Computing, 3(3):1-12, 2016.<br>
   14<b>[T-NNLS] Changsheng Li</b>, Qingshan Liu, Weishan Dong, Fan Wei, Xin Zhang, Lin Yang, Max-Margin-Based Discriminative Feature Learning, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 27(12):2768-2775, 2016.  [中科院JCR-1区].<br>
   
 
