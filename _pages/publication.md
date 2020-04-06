@@ -1,45 +1,12 @@
 ---
+layout: home
+title: About
+author_profile: true
 permalink: /publication/
+classes: wide
 ---
 **Journal Paper**
 
-
-<link href="style.css" type=text/css rel=stylesheet />
-<script language=JavaScript src="menu.js" type=text/javascript></script>
-<style type="text/css">
-<!--
-.style2 {
-	font-size: 18pt;
-	font-weight: bold;
-}
-.style7 {
-	font-size: 16pt;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-}
-.style8 {color: #FF3333}
-.style9 {
-	font-size: 12pt;
-	font-weight: bold;
-}
--->
-</style>
-</head>
-<body bgcolor="#FFFFFF">
-
-
-    <table border="0" cellpadding="0" cellspacing="0" width="930" align="center" bgcolor="#FFFFFF">
-      <tr valign="bottom">
-        <td width="930">
-
-
-
-<table border="0" cellpadding="1" cellspacing="1">
-<tbody><tr>
-<td>
-<br>
-<img src="" align="RIGHT" hspace="5" height="240">
-</td>
-<td >
 
 1. **[TNNLS]** Xiao-Yu Zhang, **Changsheng Li (Co-First Author)**, Haichao Shi, Xiaobin Zhu, Peng Li, Jing Dong, AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly Supervised Action Recognition and Localization, Accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020, [中科院JCR-1区].
 
