@@ -15,10 +15,10 @@ style1 {
 <style type="text/css">
 body{font-size:10px;} </style>
 
-aaaa
+<span class="style">a a a</span>
 
 
-<fontsize="5">1. **[TNNLS]** Xiao-Yu Zhang, **Changsheng Li (Co-First Author)**, Haichao Shi, Xiaobin Zhu, Peng Li, Jing Dong, AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly Supervised Action Recognition and Localization, Accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020, [中科院JCR-1区].</font>
+1. **[TNNLS]** Xiao-Yu Zhang, **Changsheng Li (Co-First Author)**, Haichao Shi, Xiaobin Zhu, Peng Li, Jing Dong, AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly Supervised Action Recognition and Localization, Accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020, [中科院JCR-1区].
 
 
      <tr>
