@@ -15,7 +15,8 @@ classes: wide
  6.<b>[MVA]</b> Chao Zhang, Junchi Yan, <b>Changsheng Li</b>, Hao Wu, Rongfang Bie, End-to-end learning for image-based air quality level estimation, Machine Vision and Applications, 29:601–615, 2018. <br>
  7.<b>[Neucom]</b> Chao Zhang, Junchi Yan, <b>Changsheng Li</b>, Rongfang, Bie, Contour detection via stacking random forest learning, Neurocomputing, 275(31):2702-2715, 2018. <br>
  8.<b>[T-C]</b> Junchi Yan, <b>Changsheng Li</b>, Yin Li, Guitao Cao, Adaptive discrete hypergraph matching,  IEEE Transactions on Cybernetics (T-C), 48(2):765-779, 2018. [中科院JCR-1区].<br>
- 9.<b>[T-NNLS] Changsheng Li</b>, Fan Wei, Junchi Yan, Xiaoyu Zhang, Qingshan Liu, Hongyuan Zha, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 29(6):2660-2666, 2018.  [中科院JCR-1区].<br>
+ 9.<b>[T-NNLS] Changsheng Li</b>, Fan Wei, Junchi Yan, Xiaoyu Zhang, Qingshan Liu, Hongyuan Zha, A Self-Paced Regularization Framework for Multilabel Learning, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 29(6):2660-2666, 2018.  [中科院JCR-1区].<br>
+ 10.<b>[T-NNLS]</b> Chunjie Zhang, Liang Li, <b>Changsheng Li</b>, Qi Tian, Object Categorization Using Class-Specific Representations, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 29(9):4528-4534, 2018. [中科院JCR-1区].<br>
 
  </div>
  </body>
