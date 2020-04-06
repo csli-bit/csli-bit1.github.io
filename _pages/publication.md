@@ -13,7 +13,9 @@ classes: wide
  4.<b>[T-PAMI]</b> <b>Changsheng Li</b>, Xiangfeng Wang, Weishan Dong, Junchi Yan, Qingshan Liu, Hongyuan Zha, <a href="https://ieeexplore.ieee.org/abstract/document/8367893">Joint Active Learning with Feature Selection via CUR Matrix Decomposition</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(6):1382-1396, 2019. [中科院JCR-1区].<br>
  5.<b>[T-PAMI] Changsheng Li</b>, Fan Wei, Weishan Dong, Qingshan Liu, Xiangfeng Wang, Xin Zhang, <a href="https://ieeexplore.ieee.org/abstract/document/8260965">Dynamic Structure Embedded Online Multiple-Output Regression for Streaming Data</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(2):323-336, 2019. [中科院JCR-1区].<br>
  6.<b>[MVA]</b> Chao Zhang, Junchi Yan, <b>Changsheng Li</b>, Hao Wu, Rongfang Bie, End-to-end learning for image-based air quality level estimation, Machine Vision and Applications, 29:601–615, 2018. <br>
-
+ 7.<b>[Neucom]</b> Chao Zhang, Junchi Yan, <b>Changsheng Li</b>, Rongfang, Bie, Contour detection via stacking random forest learning, Neurocomputing, 275(31):2702-2715, 2018. <br>
+ 8.<b>[T-C]</b> Junchi Yan, <b>Changsheng Li</b>, Yin Li, Guitao Cao, Adaptive discrete hypergraph matching,  IEEE Transactions on Cybernetics (T-C), 48(2):765-779, 2018. [中科院JCR-1区].<br>
+ 9.<b>[T-NNLS] Changsheng Li</b>, Fan Wei, Junchi Yan, Xiaoyu Zhang, Qingshan Liu, Hongyuan Zha, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 29(6):2660-2666, 2018.  [中科院JCR-1区].<br>
 
  </div>
  </body>
