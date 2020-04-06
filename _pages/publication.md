@@ -21,11 +21,13 @@ classes: wide
   12.<b>[JRD]</b> Jian, Wang, <b>Changsheng Li</b>, Siyao, Han, Soumitra Sarkar, Xin Zhou, Predictive maintenance based on event-log analysis: A case study, IBM Journal of Research and Development, 61(1):121-132, 2017.<br>
   13.<b>[IJCC]</b> Fanjing Meng, Han Wang, Xuejun Zhuo, Jingmin Xu, Lin Yang, <b>Changsheng Li</b>, Metaconf: Learning Based Configuration File Discovery with File MetaData, International Journal of Cloud Computing, 3(3):1-12, 2016.<br>
   14.<b>[T-NNLS] Changsheng Li</b>, Qingshan Liu, Weishan Dong, Fan Wei, Xin Zhang, Lin Yang, Max-Margin-Based Discriminative Feature Learning, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 27(12):2768-2775, 2016. [中科院JCR-1区].<br>
-  15.<b>[ICIS]</b> XiaoBin Zhu, Xin Jin, XiaoYu Zhang, <b>ChangSheng Li</b>, FuGang He, Lei Wang, Context-aware local abnormality detection in crowded scene, Science China Information Sciences, 58:1-11, 2015.<br>  
+  15.<b>[SCIS]</b> XiaoBin Zhu, Xin Jin, XiaoYu Zhang, <b>ChangSheng Li</b>, FuGang He, Lei Wang, Context-aware local abnormality detection in crowded scene, Science China Information Sciences, 58:1-11, 2015.<br>  
   16.<b>[T-C] Changsheng Li</b>, Qingshan Liu, Weishan Dong, Zhu Xiaobin, Jing Liu, Hanqing Lu, Human Age Estimation Based on Locality and Ordinal Information, IEEE Transaction on Cybernetics (TC), 45(11):2522 - 2534, 2015. [中科院JCR-1区].<br>
   17.<b>[T-NNLS] Changsheng Li</b>, Qingshan Liu, Jing Liu, Hanqing Lu, Ordinal Distance Metric Learning for Image Ranking, 
   IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 26(7):1551-1559, 2015. [中科院JCR-1区].<br>
   18.<b>[PR]</b> Xiaobin Zhu, Jing Liu, Jinqiao Wang, <b>Changsheng Li</b>, Hanqing Lu, Sparse representation for robust abnormality detection in crowded scenes, Pattern Recognition 47(5):1791-1799, 2014. [中科院JCR-2区].<br>
+  19.<b>[SP]Changsheng Li</b>, Qingshan Liu, Jing Liu, Hanqing Lu, Ordinal regularized manifold feature extraction for image ranking, Signal Processing (SP), 93(6):1651-1661, 2013. 
+  20.<b>[T-IP]</b> Sheng-hua Zhong, Yan Liu, Yang Liu, <b>Changsheng Li</b>, Water Reflection Recognition Based on Motion Blur Invariant Moments in Curvelet Space, 20(11):4301-4313, 2013.
 
 
  </div>
