@@ -101,6 +101,10 @@ classes: wide
 <li>
 <b>[AAAI]</b> Xiaoyu Zhang, Haichao Shi, <b>Changsheng Li (correspondence)</b>, Peng Li, <a href="https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangX.3935.pdf">Multi-instance Multi-label Action Recognition and Localization Based on Spatio-Temporal Pre-trimming for Untrimmed Videos</a>, AAAI Conference on Artificial Intelligence (AAAI), 2020. [CCF A].
  </li>
+  
+  <li>
+<b>[AAAI]</b> Ge Li, <b>Changsheng Li (correspondence)</b>, Chan Zeng, Peng Gao, Xie, Guotong, Region Focus Network for Joint Optic Disc and Cup Segmentation, AAAI Conference on Artificial Intelligence (AAAI), 2020. [CCF A].
+ </li>
 
   </div>
  </body>
