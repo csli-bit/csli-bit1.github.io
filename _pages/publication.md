@@ -26,8 +26,8 @@ classes: wide
   17.<b>[T-NNLS] Changsheng Li</b>, Qingshan Liu, Jing Liu, Hanqing Lu, Ordinal Distance Metric Learning for Image Ranking, 
   IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 26(7):1551-1559, 2015. [中科院JCR-1区].<br>
   18.<b>[PR]</b> Xiaobin Zhu, Jing Liu, Jinqiao Wang, <b>Changsheng Li</b>, Hanqing Lu, Sparse representation for robust abnormality detection in crowded scenes, Pattern Recognition 47(5):1791-1799, 2014. [中科院JCR-2区].<br>
-  19.<b>[SP]Changsheng Li</b>, Qingshan Liu, Jing Liu, Hanqing Lu, Ordinal regularized manifold feature extraction for image ranking, Signal Processing (SP), 93(6):1651-1661, 2013. 
-  20.<b>[T-IP]</b> Sheng-hua Zhong, Yan Liu, Yang Liu, <b>Changsheng Li</b>, Water Reflection Recognition Based on Motion Blur Invariant Moments in Curvelet Space, 20(11):4301-4313, 2013.
+  19.<b>[SP]Changsheng Li</b>, Qingshan Liu, Jing Liu, Hanqing Lu, Ordinal regularized manifold feature extraction for image ranking, Signal Processing (SP), 93(6):1651-1661, 2013. <br>
+  20.<b>[T-IP]</b> Sheng-hua Zhong, Yan Liu, Yang Liu, <b>Changsheng Li</b>, Water Reflection Recognition Based on Motion Blur Invariant Moments in Curvelet Space, 20(11):4301-4313, 2013. <br>
 
 
  </div>
