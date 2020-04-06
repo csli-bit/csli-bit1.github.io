@@ -93,9 +93,8 @@ classes: wide
 </li>
  </div>
  </body>
- 
+ <br>
  **Conference Paper**
- 
  <body>
  <div style="font-size: 14px;">
 <li>
