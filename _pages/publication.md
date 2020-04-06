@@ -15,9 +15,9 @@ classes: wide
 <ul>
 <li>
 <b>[T-BME]</b> Yuming Jiang, Lixin Duan, Jun Cheng, Zaiwang Gu, Hu Xia, Huazhu Fu, <b>Changsheng Li</b>, Jiang Liu, <a href="https://ieeexplore.ieee.org/document/8698800">JointRCNN: A Region-Based Convolutional Neural Network for Optic Disc and Cup Segmentation</a>, IEEE Transactions on Biomedical Engineering (T-BME), 67(2): 335-343, 2020. [中科院JCR-2区].<br />
- </li>
+</li>
 </ul>
- <ul>
+<ul>
 <li>
 <b>[T-NNLS]</b> <b>Changsheng Li</b>, Chong Liu, Lixin Duan, Peng Gao, Kai Zheng, <a href="https://ieeexplore.ieee.org/document/8766125">Reconstruction regularized deep metric learning for multi-label image classification</a>, online, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2019. [中科院JCR-1区].<br>
 </ul>
@@ -27,19 +27,16 @@ classes: wide
 <b>[T-PAMI]</b> <b>Changsheng Li</b>, Xiangfeng Wang, Weishan Dong, Junchi Yan, Qingshan Liu, Hongyuan Zha, <a href="https://ieeexplore.ieee.org/abstract/document/8367893">Joint Active Learning with Feature Selection via CUR Matrix Decomposition</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(6):1382-1396, 2019. [中科院JCR-1区].<br>
 </ul>
 </li>
-  
 <ul>
 <li>
 <b>[T-PAMI]</b> <b>Changsheng Li</b>, Xiangfeng Wang, Weishan Dong, Junchi Yan, Qingshan Liu, Hongyuan Zha, <a href="https://ieeexplore.ieee.org/abstract/document/8367893">Joint Active Learning with Feature Selection via CUR Matrix Decomposition</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(6):1382-1396, 2019. [中科院JCR-1区].<br>
- </ul>
+</ul>
 </li>
-
 <ul>
 <li>
 <b>[T-PAMI] Changsheng Li</b>, Fan Wei, Weishan Dong, Qingshan Liu, Xiangfeng Wang, Xin Zhang, <a href="https://ieeexplore.ieee.org/abstract/document/8260965">Dynamic Structure Embedded Online Multiple-Output Regression for Streaming Data</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(2):323-336, 2019. [中科院JCR-1区].<br>
 </ul>
 </li>
- 
  <ul>
 <li>
 <b>[MVA]</b> Chao Zhang, Junchi Yan, <b>Changsheng Li</b>, Hao Wu, Rongfang Bie, End-to-end learning for image-based air quality level estimation, Machine Vision and Applications, 29:601–615, 2018. <br>
