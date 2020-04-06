@@ -93,8 +93,14 @@ classes: wide
 </li>
  </div>
  </body>
- <br>
  
  **Conference Paper**
  
- 
+ <body>
+ <div style="font-size: 14px;">
+<li>
+<b>[AAAI]</b> Xiaoyu Zhang, Haichao Shi, <b>Changsheng Li (correspondence)</b>, Peng Li, Multi-instance Multi-label Action Recognition and Localization Based on Spatio-Temporal Pre-trimming for Untrimmed Videos, AAAI Conference on Artificial Intelligence (AAAI), 2020. [CCF A].
+ </li>
+
+  </div>
+ </body>
