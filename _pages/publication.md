@@ -6,7 +6,7 @@ classes: wide
 **Journal Paper**
 
 
-.style1 {
+style1 {
  font-size: 16pt;
  font-family: Verdana, Arial, Helvetica, sans-serif;
 }
