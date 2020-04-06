@@ -1,6 +1,4 @@
 ---
-layout: home
-title: About
 author_profile: true
 permalink: /publication/
 classes: wide
