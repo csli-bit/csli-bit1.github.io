@@ -6,7 +6,7 @@ classes: wide
 **Journal Paper**
 
 <body>
- <div style="font-size: 10px;">
+ <div style="font-size: 14px;">
  1. **[TNNLS]** Xiao-Yu Zhang, **Changsheng Li (Co-First Author)**, Haichao Shi, Xiaobin Zhu, Peng Li, Jing Dong, AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly Supervised Action Recognition and Localization, Accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020, [中科院JCR-1区].<br>
  1. **[TNNLS]** Xiao-Yu Zhang, **Changsheng Li (Co-First Author)**, Haichao Shi, Xiaobin Zhu, Peng Li, Jing Dong, AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly Supervised Action Recognition and Localization, Accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020, [中科院JCR-1区].
  </div>
