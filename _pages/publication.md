@@ -89,7 +89,7 @@ classes: wide
  </li>
  
  <li>
- <b>[T-IP]</b> Sheng-hua Zhong, Yan Liu, Yang Liu, <b>Changsheng Li</b>, Water Reflection Recognition Based on Motion Blur Invariant Moments in Curvelet Space, 20(11):4301-4313, 2013. <br>
+ <b>[T-IP]</b> Sheng-hua Zhong, Yan Liu, Yang Liu, <b>Changsheng Li</b>, Water Reflection Recognition Based on Motion Blur Invariant Moments in Curvelet Space, IEEE Trasnactions on Image Processing (T-IP), 20(11):4301-4313, 2013. <br>
 </li>
  </div>
  </body>
