@@ -126,7 +126,9 @@ classes: wide
  <b>[AAAI]</b> Zhao Kang , Yiwei Lu, Yuanzhang Su, <b>Changsheng Li</b>, Zenglin Xu, Similarity Learning via Kernel Preserving Embedding, AAAI Conference on Artificial Intelligence (AAAI), 2019. [CCF A]
  </li>
 
-
+ <li>
+ <b>[IJCAI]</b> Junchi Yan, Xin Liu, Liangliang Shi, <b>Changsheng Li (correspondence)</b>, Hongyuan Zha, Improving Maximum Likelihood Estimation of Temporal Point Process via Discriminative and Adversarial Learning, Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence (IJCAI), pp. 2948-2954, 2018. [CCF A]
+ </li>
 
   </div>
  </body>
