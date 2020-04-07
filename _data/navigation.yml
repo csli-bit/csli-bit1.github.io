@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: https://csli-bit.github.io/home/
+    url: https://csli-bit.github.io/
   - title: "Publication"
     url: https://csli-bit.github.io/publication/
   - title: "Projects"
