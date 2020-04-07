@@ -3,7 +3,7 @@ layout: home
 title: About
 author_profile: true
 classes: wide
-permalink: /
+permalink: /home/
 ---
 
 My name is Wei Zhang(in Chinese: 张威). I am a graduate student at [Columbia University](https://www.columbia.edu/), working with Professor [John Paisley](http://www.columbia.edu/~jwp2128/). I am also a member of [Data Science Institute](https://datascience.columbia.edu/) at Columbia University. I obtained my B.S. in Electrical Engineering of Honours, Co-operative Program from [University of Waterloo](https://uwaterloo.ca/) in Canada, where I worked with Professor [Xuemin(Sherman) Shen](http://bbcr.uwaterloo.ca/~xshen/). I then obtained my M.S. in Electrical Engineering of Honors Program from Columbia University, where I worked with Professor [Shih-Fu Chang](http://www.ee.columbia.edu/~sfchang/) and Professor [Peter Allen](https://www.cs.columbia.edu/~allen/). 
