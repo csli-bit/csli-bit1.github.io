@@ -134,10 +134,18 @@ classes: wide
  <b>[IJCAI]</b> Weishan Dong, Ting Yuan, Kai Yang, <b>Changsheng Li (correspondence)</b>, Shilei Zhang,  Autoencoder Regularized Network For Driving Style Representation Learning， Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence (IJCAI), pp. 1603-1609, 2017. [CCF A]
  </li>
  
-   <li>
- <b>[AAAI]</b> <b>Changsheng Li</b>, Junchi Yan, Fan Wei, Weishan Dong, Qingshan Liu, Hongyuan Zha, Zhang,  Self-paced Multi-task Learning，The 31th AAAI Conference on Artificial Intelligence (AAAI), pp. 2175-2181, 2017. [CCF A]
+ <li>
+ <b>[AAAI]</b> <b>Changsheng Li</b>, Junchi Yan, Fan Wei, Weishan Dong, Qingshan Liu, Hongyuan Zha,  Self-paced Multi-task Learning，The 31th AAAI Conference on Artificial Intelligence (AAAI), pp. 2175-2181, 2017. [CCF A]
  </li>
  
+ <li>
+ <b>[SOLI]</b> Chunyang Ma, Xin Zhang, Peng Gao, Weishan Dong, <b>Changsheng Li</b>,  Space-map-matching-based candidate selection for GPS map matching,  IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI), 2016.
+ </li>
+ 
+ <li>
+ <b>[MM]</b> Chao Zhang, Junchi Yan, <b>Changsheng Li (Correspondance)</b>, Xiaogang Rui, Liang Liu, Rongfang Bie, On Estimating Air Pollution from Photos using Convolutional Neural Networks,  ACM Multimedia (MM), 2016.
+ </li>
+
 
 
   </div>
