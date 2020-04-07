@@ -114,15 +114,15 @@ classes: wide
  <b>[ICIP]</b> Mengying Zhang, <b>Changsheng Li</b>, Xiangfeng Wang, Multi-View Metric Learning for Multi-Label Image Classification, IEEE International Conference on Image Processing (ICIP), 2019.
  </li>
  
-   <li>
+ <li>
  <b>[AAAI]</b> Xiao-Yu Zhang, Haichao Shi, <b>Changsheng Li (correspondence)</b>, Kai Zheng, Xiaobin Zhu, Lixin Duan, Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision, AAAI Conference on Artificial Intelligence (AAAI), 2019. [CCF A]
  </li>
  
-    <li>
+<li>
  <b>[AAAI]</b> Xiaobin Zhu, Zhuangzi Li, Xiao-Yu Zhang, <b>Changsheng Li (correspondence)</b>, Yaqi Liu, Ziyu Xue, Residual Invertible Spatio-Temporal Network For Video Super-Resolution, AAAI Conference on Artificial Intelligence (AAAI), 2019. [CCF A]
  </li>
  
-     <li>
+ <li>
  <b>[AAAI]</b> Zhao Kang , Yiwei Lu, Yuanzhang Su, <b>Changsheng Li</b>, Zenglin Xu
  Xiaobin Zhu, Zhuangzi Li, Xiao-Yu Zhang, <b>Changsheng Li (correspondence)</b>, Yaqi Liu, Ziyu Xue, Similarity Learning via Kernel Preserving Embedding, AAAI Conference on Artificial Intelligence (AAAI), 2019. [CCF A]
  </li>
