@@ -130,7 +130,7 @@ classes: wide
  </li>
  
  <li>
- <b>[AAAI]</b> <b>Changsheng Li</b>, Junchi Yan, Fan Wei, Weishan Dong, Qingshan Liu, Hongyuan Zha,  Self-paced Multi-task Learning，The 31th AAAI Conference on Artificial Intelligence (AAAI), pp. 2175-2181, 2017. [CCF A]
+ <b>[AAAI]</b> <b>Changsheng Li</b>, Junchi Yan, Fan Wei, Weishan Dong, Qingshan Liu, Hongyuan Zha, <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14535/14390">Self-paced Multi-task Learning</a>，The 31th AAAI Conference on Artificial Intelligence (AAAI), pp. 2175-2181, 2017. [CCF A]
  </li>
  
  <li>
