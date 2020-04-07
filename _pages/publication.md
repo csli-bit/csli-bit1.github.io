@@ -105,6 +105,14 @@ classes: wide
   <li>
 <b>[AAAI]</b> Ge Li, <b>Changsheng Li (correspondence)</b>, Chan Zeng, Peng Gao, Xie, Guotong, Region Focus Network for Joint Optic Disc and Cup Segmentation, AAAI Conference on Artificial Intelligence (AAAI), 2020. [CCF A].
  </li>
+ 
+ <li>
+ <b>[PRCV]</b> Haichao Shi, Xiaoyu Zhang, <b>Changsheng Li</b>, Weakly-Supervised Action Recognition and Localization via Knowledge Transfer, Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 205-216, 2019, Springer.
+ </li>
+ 
+  <li>
+ <b>[ICIP]</b> Mengying Zhang, <b>Changsheng Li</b>, Xiangfeng Wang, Multi-View Metric Learning for Multi-Label Image Classification, IEEE International Conference on Image Processing (ICIP), 2019.
+ </li>
 
   </div>
  </body>
