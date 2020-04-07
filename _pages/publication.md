@@ -171,7 +171,7 @@ classes: wide
  </li>
  
  <li>
- <b>[CIKM]</b> Weishan Dong, Renjie Yao, Chunyang Ma, <b>Changsheng Li</b>, Lei Shi, Lu Wang, Yu Wang, Peng Gao, Junchi Yan,  Maximizing Multi-scale Spatial Statistical Discrepancy, The 23rd ACM International Conference on Information and Knowledge Management (CIKM), pp.471--480, 2014.
+ <b>[CIKM]</b> Weishan Dong, Renjie Yao, Chunyang Ma, <b>Changsheng Li</b>, Lei Shi, Lu Wang, Yu Wang, Peng Gao, Junchi Yan,  Maximizing Multi-scale Spatial Statistical Discrepancy, The 23rd ACM International Conference on Information and Knowledge Management (CIKM), pp.471--480, 2014. [CCF B].
  </li>
  
  <li>
