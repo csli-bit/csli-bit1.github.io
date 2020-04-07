@@ -123,8 +123,7 @@ classes: wide
  </li>
  
  <li>
- <b>[AAAI]</b> Zhao Kang , Yiwei Lu, Yuanzhang Su, <b>Changsheng Li</b>, Zenglin Xu
- Xiaobin Zhu, Zhuangzi Li, Xiao-Yu Zhang, <b>Changsheng Li (correspondence)</b>, Yaqi Liu, Ziyu Xue, Similarity Learning via Kernel Preserving Embedding, AAAI Conference on Artificial Intelligence (AAAI), 2019. [CCF A]
+ <b>[AAAI]</b> Zhao Kang , Yiwei Lu, Yuanzhang Su, <b>Changsheng Li</b>, Zenglin Xu, Similarity Learning via Kernel Preserving Embedding, AAAI Conference on Artificial Intelligence (AAAI), 2019. [CCF A]
  </li>
 
 
