@@ -143,10 +143,20 @@ classes: wide
  </li>
  
  <li>
- <b>[MM]</b> Chao Zhang, Junchi Yan, <b>Changsheng Li (Correspondance)</b>, Xiaogang Rui, Liang Liu, Rongfang Bie, On Estimating Air Pollution from Photos using Convolutional Neural Networks,  ACM Multimedia (MM), 2016.
+ <b>[MM]</b> Chao Zhang, Junchi Yan, <b>Changsheng Li (Correspondance)</b>, Xiaogang Rui, Liang Liu, Rongfang Bie, On Estimating Air Pollution from Photos using Convolutional Neural Networks,  ACM Multimedia (MM), 2016. [CCF A]
  </li>
 
+ <li>
+ <b>[IJCAI]</b> Junchi Yan, Shuai Xiao, <b>Changsheng Li</b>, Bo Jin, Xiangfeng Wang, Ke Bin, Xiaokang Yang, Hongyuan Zha, Modeling Contagious Merger and Acquisition via Point Processes with a Profile Regression Prior, Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp.2690-2696, 2016. [CCF A]
+ </li>
+ 
+  <li>
+ <b>[IJCAI]</b> Shuai Xiao, Junchi Yan, <b>Changsheng Li</b>, Bo Jin, Xiangfeng Wang, Hongyuan Zha, Xiaokang Yang, M.Chu Stephen, On modeling and predicting individual paper citation count over time, Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp.2676-2682, 2016. [CCF A]
+ </li>
 
-
+ <li>
+ <b>[AAAI]</b> <b>Changsheng Li</b>, Fan Wei, Weishan Dong, Xiangfeng Wang, Junchi Yan, Xiaobin Zhu, Qingshan Liu, Xin Zhang,  Spatially Regularized Streaming Sensor Selection, The AAAI Conference on Artificial Intelligence (AAAI), pp. 3871-3879, 2016. [CCF A]
+ </li>
+ 
   </div>
  </body>
