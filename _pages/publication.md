@@ -158,5 +158,29 @@ classes: wide
  <b>[AAAI]</b> <b>Changsheng Li</b>, Fan Wei, Weishan Dong, Xiangfeng Wang, Junchi Yan, Xiaobin Zhu, Qingshan Liu, Xin Zhang,  Spatially Regularized Streaming Sensor Selection, The AAAI Conference on Artificial Intelligence (AAAI), pp. 3871-3879, 2016. [CCF A]
  </li>
  
+ <li>
+ <b>[ICCC]</b> Han Wang, Fanjing Meng, Xuejun Zhuo, Lin Yang, <b>Changsheng Li</b>, Jing Min Xu,  Learning from Metadata: A Fuzzy Token Matching Based Configuration File Discovery Approach, IEEE 8th International Conference on Cloud Computing, pp. 405-412, 2015.
+ </li>
+ 
+ <li>
+ <b>[ICCC]</b> Han Wang, Fanjing Meng, Xuejun Zhuo, Lin Yang, <b>Changsheng Li</b>, Jing Min Xu,  Learning from Metadata: A Fuzzy Token Matching Based Configuration File Discovery Approach, IEEE 8th International Conference on Cloud Computing, pp. 405-412, 2015.
+ </li>
+ 
+ <li>
+ <b>[ICSS]</b> Lin Yang, <b>Changsheng Li</b>, Liya Fan, Jingmin Xu,  Fast Modeling of Analytics Workloads for Big Data Services, International Conference on Service Science (ICSS), 2014.
+ </li>
+ 
+ <li>
+ <b>[ICPR] Changsheng Li</b>, Lin Yang, Qingshan Liu, Fanjing Meng, Weishan Dong, Yu Wang, Jingmin Xu,  Multiple-Output Regression with High-Order Structure Information, The 22nd International Conference on Pattern Recognition (ICPR), pp.3868-3873, 2014.
+ </li>
+ 
+ <li>
+ <b>[CIKM]</b> Weishan Dong, Renjie Yao, Chunyang Ma, <b>Changsheng Li</b>, Lei Shi, Lu Wang, Yu Wang, Peng Gao, Junchi Yan,  Maximizing Multi-scale Spatial Statistical Discrepancy, The 23rd ACM International Conference on Information and Knowledge Management (CIKM), pp.471--480, 2014.
+ </li>
+ 
+ <li>
+ <b>[MMM]</b> Guibo Zhu, Jinqiao Wang, <b>Changsheng Li</b>, Hanqing Lu,  Collaborative Tracking: Dynamically Fusing Short-Term Trackers and Long-Term Detector, Annual Conference on Magnetism and Magnetic Materials (MMM), pp.457-467, 2013.
+ </li>
+ 
   </div>
  </body>
