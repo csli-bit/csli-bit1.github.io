@@ -163,10 +163,6 @@ classes: wide
  </li>
  
  <li>
- <b>[ICCC]</b> Han Wang, Fanjing Meng, Xuejun Zhuo, Lin Yang, <b>Changsheng Li</b>, Jing Min Xu,  Learning from Metadata: A Fuzzy Token Matching Based Configuration File Discovery Approach, IEEE 8th International Conference on Cloud Computing, pp. 405-412, 2015.
- </li>
- 
- <li>
  <b>[ICSS]</b> Lin Yang, <b>Changsheng Li</b>, Liya Fan, Jingmin Xu,  Fast Modeling of Analytics Workloads for Big Data Services, International Conference on Service Science (ICSS), 2014.
  </li>
  
@@ -181,6 +177,23 @@ classes: wide
  <li>
  <b>[MMM]</b> Guibo Zhu, Jinqiao Wang, <b>Changsheng Li</b>, Hanqing Lu,  Collaborative Tracking: Dynamically Fusing Short-Term Trackers and Long-Term Detector, Annual Conference on Magnetism and Magnetic Materials (MMM), pp.457-467, 2013.
  </li>
+ 
+  <li>
+ <b>[ICPR] Changsheng Li</b>, Qingshan Liu, Jing Liu, Hanqing Lu, Learning distance metric regression for facial age estimation, The 21nd International Conference on Pattern Recognition (ICPR), pp. 2327-2330, 2012.
+ </li>
+ 
+ <li>
+ <b>[ICMR] Changsheng Li</b>, Yan Liu, Qingshan Liu, Jing Liu, Changsheng Xu, Hanqing Lu, Ordinal preserving projection: a novel dimensionality reduction method for image ranking, ACM International Conference on Multimedia Retrieval (ICMR), pp.1-8, 2012.
+ </li>
+ 
+ <li>
+ <b>[CVPR] Changsheng Li</b>, Qingshan Liu, Jing Liu, Hanqing Lu, Learning ordinal discriminative features for age estimation, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp.2570-2577, 2012. [CCF A]
+ </li>
+ 
+  <li>
+ <b>[ICIMCS] Changsheng Li</b>, Ling Shao, Changsheng Xu, Hanqing Lu, Feature selection under learning to rank model for multimedia retrieve, International Conference on Internet Multimedia Computing and Service (ICIMCS), pp.69-72, 2010. 
+ </li>
+ 
  
   </div>
  </body>
