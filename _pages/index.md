@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About
+title: Short Bio
 author_profile: true
 classes: wide
 permalink: /
