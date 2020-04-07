@@ -1,11 +1,6 @@
 ---
 layout: home
-title: 
-<body>
- <div style="font-size: 14px;">
-   Short Bio
- </div>
-  </body>
+title: Short Bio
 author_profile: true
 classes: wide
 permalink: /
