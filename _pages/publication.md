@@ -115,7 +115,7 @@ classes: wide
  </li>
  
  <li>
- <b>[AAAI]</b> Xiao-Yu Zhang, Haichao Shi, <b>Changsheng Li (correspondence)</b>, Kai Zheng, Xiaobin Zhu, Lixin Duan, Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision, AAAI Conference on Artificial Intelligence (AAAI), 2019. [CCF A]
+ <b>[AAAI]</b> Xiao-Yu Zhang, Haichao Shi, <b>Changsheng Li (correspondence)</b>, Kai Zheng, Xiaobin Zhu, Lixin Duan, Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision, AAAI Conference on Artificial Intelligence (AAAI), pp.9227-9234, 2019. [CCF A]
  </li>
  
 <li>
