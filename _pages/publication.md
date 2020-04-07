@@ -18,10 +18,6 @@ classes: wide
 <li>
 <b>[T-NNLS]</b> <b>Changsheng Li</b>, Chong Liu, Lixin Duan, Peng Gao, Kai Zheng, <a href="https://ieeexplore.ieee.org/document/8766125">Reconstruction regularized deep metric learning for multi-label image classification</a>, online, IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2019. [中科院JCR-1区].<br>
 </li>
-  
-<li>
-<b>[T-PAMI]</b> <b>Changsheng Li</b>, Xiangfeng Wang, Weishan Dong, Junchi Yan, Qingshan Liu, Hongyuan Zha, <a href="https://ieeexplore.ieee.org/abstract/document/8367893">Joint Active Learning with Feature Selection via CUR Matrix Decomposition</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(6):1382-1396, 2019. [中科院JCR-1区].<br>
-</li>
 
 <li>
 <b>[T-PAMI]</b> <b>Changsheng Li</b>, Xiangfeng Wang, Weishan Dong, Junchi Yan, Qingshan Liu, Hongyuan Zha, <a href="https://ieeexplore.ieee.org/abstract/document/8367893">Joint Active Learning with Feature Selection via CUR Matrix Decomposition</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(6):1382-1396, 2019. [中科院JCR-1区].<br>
@@ -93,7 +89,6 @@ classes: wide
 </li>
  </div>
  </body>
- <br>
  
  **Conference Paper**
  <body>
